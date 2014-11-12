@@ -1,0 +1,94 @@
+{
+    "providers": [
+        {
+            "id": "cloud001",
+            "updatePeriodMillis": 5000,
+            "hostCategory": "lock_screen_host",
+            "slotConfig": 0
+        },
+        {
+            "id": "cloud002",
+            "updatePeriodMillis": 5000,
+            "hostCategory": "lock_screen_host",
+            "slotConfig": 0
+        }
+    ],
+    "updates": {
+        "cloud001": [
+            {
+                "background_slot": {
+                    "drawable_type": "resource",
+                    "drawable_source": "remote_channel1"
+                },
+                "notification_slot": {
+                    "small_icon": {
+                        "drawable_type": "resource",
+                        "drawable_source": "lock"
+                    },
+                    "content_title": "(Update2)CloudNotification",
+                    "content_text": "(Update2)Thisisanexampleofcloudnotificationtext."
+                },
+                "main_screen_slot": {
+                    "layout_type": "resource",
+                    "layout_source": "channel_main"
+                }
+            },
+            {
+                "background_slot": {
+                    "drawable_type": "resource",
+                    "drawable_source": "remote_channel1"
+                },
+                "notification_slot": {
+                    "small_icon": {
+                        "drawable_type": "resource",
+                        "drawable_source": "lock"
+                    },
+                    "content_title": "(Update2)CloudNotification",
+                    "content_text": "(Update2)Thisisanexampleofcloudnotificationtext."
+                },
+                "main_screen_slot": {
+                    "layout_type": "resource",
+                    "layout_source": "channel_main"
+                }
+            }
+        ],
+        "cloud002": [
+            {
+                "background_slot": {
+                    "drawable_type": "resource",
+                    "drawable_source": "remote_channel1"
+                },
+                "notification_slot": {
+                    "small_icon": {
+                        "drawable_type": "resource",
+                        "drawable_source": "lock"
+                    },
+                    "content_title": "(Update2)CloudNotification",
+                    "content_text": "(Update2)Thisisanexampleofcloudnotificationtext."
+                },
+                "main_screen_slot": {
+                    "layout_type": "resource",
+                    "layout_source": "channel_main"
+                }
+            },
+            {
+                "background_slot": {
+                    "drawable_type": "resource",
+                    "drawable_source": "remote_channel1"
+                },
+                "notification_slot": {
+                    "small_icon": {
+                        "drawable_type": "resource",
+                        "drawable_source": "lock"
+                    },
+                    "content_title": "(Update2)CloudNotification",
+                    "content_text": "(Update2)Thisisanexampleofcloudnotificationtext."
+                },
+                "main_screen_slot": {
+                    "layout_type": "resource",
+                    "layout_source": "channel_main"
+                }
+            }
+        ]
+    }
+}
