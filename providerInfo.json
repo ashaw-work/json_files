@@ -17,8 +17,8 @@
         "cloud001": [
             {
                 "background_slot": {
-                    "drawable_type": "resource",
-                    "drawable_source": "katniss"
+                    "drawable_type": "resource_url",
+                    "drawable_source": "http://blog.tmcnet.com/social-spotlight/assets_c/2012/12/google-thumb-950x534-12113.jpg"
                 },
                 "notification_slot": {
                     "small_icon": {
