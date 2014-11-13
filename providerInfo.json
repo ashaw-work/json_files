@@ -4,13 +4,13 @@
             "id": "cloud001",
             "updatePeriodMillis": 5000,
             "hostCategory": "lock_screen_host",
-            "slotConfig": 0
+            "slotConfig": 2
         },
         {
             "id": "cloud002",
             "updatePeriodMillis": 5000,
             "hostCategory": "lock_screen_host",
-            "slotConfig": 0
+            "slotConfig": 2
         }
     ],
     "updates": {
