@@ -18,7 +18,7 @@
             {
                 "background_slot": {
                     "drawable_type": "resource",
-                    "drawable_source": "remote_channel1"
+                    "drawable_source": "katniss"
                 },
                 "notification_slot": {
                     "small_icon": {
@@ -30,13 +30,13 @@
                 },
                 "main_screen_slot": {
                     "layout_type": "resource",
-                    "layout_source": "channel_main"
+                    "layout_source": "katniss"
                 }
             },
             {
                 "background_slot": {
                     "drawable_type": "resource",
-                    "drawable_source": "remote_channel1"
+                    "drawable_source": "katniss"
                 },
                 "notification_slot": {
                     "small_icon": {
@@ -48,7 +48,7 @@
                 },
                 "main_screen_slot": {
                     "layout_type": "resource",
-                    "layout_source": "channel_main"
+                    "layout_source": "katniss"
                 }
             }
         ],
@@ -56,7 +56,7 @@
             {
                 "background_slot": {
                     "drawable_type": "resource",
-                    "drawable_source": "remote_channel1"
+                    "drawable_source": "katniss"
                 },
                 "notification_slot": {
                     "small_icon": {
@@ -74,7 +74,7 @@
             {
                 "background_slot": {
                     "drawable_type": "resource",
-                    "drawable_source": "remote_channel1"
+                    "drawable_source": "katniss"
                 },
                 "notification_slot": {
                     "small_icon": {
