@@ -8,7 +8,7 @@
         },
         {
             "id": "cloud002",
-            "updatePeriodMillis": 5000,
+            "updatePeriodMillis": 50000,
             "hostCategory": "lock_screen_host",
             "slotConfig": 2
         }
@@ -73,8 +73,8 @@
             },
             {
                 "background_slot": {
-                    "drawable_type": "resource",
-                    "drawable_source": "katniss"
+                    "drawable_type": "resource_url",
+                    "drawable_source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93RjNIy4fDeCffoZ8SwbleTfWT8TQMu_gVYTlIUN23f9dWFjh"
                 },
                 "notification_slot": {
                     "small_icon": {
