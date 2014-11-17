@@ -1,0 +1,38 @@
+[
+    {
+        "background_slot": {
+            "drawable_type": "resource_url",
+            "drawable_source": "http://img2.timeinc.net/ew/i/2014/11/10/Taylor-Swift.jpg"
+        },
+        "notification_slot": {
+            "small_icon": {
+                "drawable_type": "resource",
+                "drawable_source": "lock"
+            },
+            "content_title": "(Update2)CloudNotification",
+            "content_text": "(Update2)Thisisanexampleofcloudnotificationtext."
+        },
+        "main_screen_slot": {
+            "layout_type": "resource",
+            "layout_source": "katniss"
+        }
+    },
+    {
+        "background_slot": {
+            "drawable_type": "resource_url",
+            "drawable_source": "http://www.eonline.com/eol_images/Entire_Site/2013015/634.TaylorSwift7.ms.011513_copy.jpg"
+        },
+        "notification_slot": {
+            "small_icon": {
+                "drawable_type": "resource",
+                "drawable_source": "lock"
+            },
+            "content_title": "(Update2)CloudNotification",
+            "content_text": "(Update2)Thisisanexampleofcloudnotificationtext."
+        },
+        "main_screen_slot": {
+            "layout_type": "resource",
+            "layout_source": "katniss"
+        }
+    }
+]
