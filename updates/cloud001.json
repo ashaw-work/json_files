@@ -1,0 +1,38 @@
+[
+    {
+        "background_slot": {
+            "drawable_type": "resource_url",
+            "drawable_source": "http://bilder.poster.net/LRG/63/6357/3P98100Z.jpg"
+        },
+        "notification_slot": {
+            "small_icon": {
+                "drawable_type": "resource",
+                "drawable_source": "lock"
+            },
+            "content_title": "(Update2)CloudNotification",
+            "content_text": "(Update2)Thisisanexampleofcloudnotificationtext."
+        },
+        "main_screen_slot": {
+            "layout_type": "resource",
+            "layout_source": "katniss"
+        }
+    },
+    {
+        "background_slot": {
+            "drawable_type": "resource_url",
+            "drawable_source": "http://bilder.poster.net/LRG/63/6357/WS98100Z.jpg"
+        },
+        "notification_slot": {
+            "small_icon": {
+                "drawable_type": "resource",
+                "drawable_source": "lock"
+            },
+            "content_title": "(Update2)CloudNotification",
+            "content_text": "(Update2)Thisisanexampleofcloudnotificationtext."
+        },
+        "main_screen_slot": {
+            "layout_type": "resource",
+            "layout_source": "katniss"
+        }
+    }
+]
